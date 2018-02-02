@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764122452304",
+    "firebase_url": "https://myapplication-qomtec.firebaseio.com",
+    "project_id": "myapplication-qomtec",
+    "storage_bucket": "myapplication-qomtec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764122452304:android:45c47898fc265f25",
+        "android_client_info": {
+          "package_name": "com.qomtec.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764122452304-hdplv7hr0j37tc6o3gjfcfuqo39h3qsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qomtec.myapplication",
+            "certificate_hash": "abf7bb58f4d39a6f6056738eb78de7b43706be84"
+          }
+        },
+        {
+          "client_id": "764122452304-5fhj00opcj63jt2tnsb0j9th68t4n6r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnW1rEVUc61QVdeLyn-DCBswUVP2IBpEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764122452304-5fhj00opcj63jt2tnsb0j9th68t4n6r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
